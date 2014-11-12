@@ -3,7 +3,8 @@ using System.Collections;
 using System.Text;
 
 public class World : MonoBehaviour {
-	
+	//useless test comment
+
 	/*********************************
 	 * Public static fields
 	*********************************/
